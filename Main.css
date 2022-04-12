@@ -1,0 +1,87 @@
+
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0.65%;
+    margin-top: 0.65%;
+    margin-right: 0.65%;
+    background-color: rgba(32,27,44,255);
+    color: white;
+}
+
+#headers{
+    display: block;
+    background-color:rgba(0, 0, 0, 0.582);
+}
+
+#header{
+    font-size:medium;
+    border-bottom: 1px solid white;
+}
+
+.buttonD{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-align: end;
+    margin-top: -2%;
+}
+
+.TituloDivs{
+    text-align: center;
+    border: 1px solid white;
+    margin-right: 20%; /* AJUSTÁVEL */
+    
+}
+
+.texto{
+    /* VAI FICAR ASSIM PRA JÁ DEPOIS VEJO COM CHEFES DO DEPARTAMENTO DE DESIGN(KAGY) E FRONT-ENT(SNIKI) */
+    background-color: white;
+    color: black;
+}
+
+.TituloDivs2{
+    font-size: 30px;
+}
+
+
+
+.CaixasDireita{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-size: small;
+    text-align: right;
+    margin-right: 14%;
+    margin-top: -20%;
+}
+
+#Direita1{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-align: center;
+    border: 1px solid white;
+    margin-right: -16%;
+    margin-left: 93.5%;
+}
+
+#footer{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    margin-top: 28%;
+    margin-bottom: 0.65%;
+    background-color:rgba(0, 0, 0, 0.582);
+    text-align: center;
+}
+
+.footerP{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-align: left;
+    margin-left: 0.65%;
+}
